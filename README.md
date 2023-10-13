@@ -5,7 +5,7 @@ A repository to host my code-based projects from the University of Toronto's Eng
 The following projects were created using Python.
 - **Credit Card Simulator:** Simulates credit card transactions to track the balance owed, interest accrued, and partial and complete bill payments. The simulator also implements a flagging algorithm to deactivate the credit card if fraud is suspected.
 - **Gomoku:** A simple artificial intelligence (AI) engine for the standard variant of the game [Gomoku](http://en.wikipedia.org/wiki/Gomoku), which is a 2-player game played on a 8 × 8 board.
-- **Semantic Similarity:** An intelligent system that picks a word's synonym from a given list of alternatives. The system computes each word's semantic descriptor vector and cosine [semantic similarity](https://en.wikipedia.org/wiki/Semantic_similarity).
+- **Semantic Similarity:** An intelligent system that picks a word's synonym from a given list of alternatives. The system computes each word's semantic descriptor vector and cosine [semantic similarity](https://en.wikipedia.org/wiki/Semantic_similarity) with an accuracy of about 73%.
 
 ## Computer Algorithms and Data Structures (ESC190)
 The following projects were created using C.
