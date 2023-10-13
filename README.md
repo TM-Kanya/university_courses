@@ -11,6 +11,7 @@ The following projects were created using Python.
 
 ## Computer Algorithms and Data Structures (ESC190)
 _Taught by Professor Michael Guerzhoy._ 
+
 The following projects were created using C.
 - **Autocomplete:** An implementation of the autocomplete functionality, which sorts a file of terms by lexicographic ordering and uses binary search to return the best match to the query string.
 - **Seam Carving:** Seam carving is a content-aware image resizing technique where the image's size is reduced one pixel at a time to retain most of the image's key characteristics. It is now a fundamental feature in computer graphic applications such as Adobe Photoshop. This project uses dynamic programming to calculate the dual-gradient energy function to find vertical “seams” and resize the image.
