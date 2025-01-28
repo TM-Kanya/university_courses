@@ -4,7 +4,7 @@ A repository to host my code-based projects from the University of Toronto's Eng
 ## Introduction to Robotics (ROB301)
 _Taught by Professor Nicholas Rhinehart._ 
 
-- **[Automated Mail Delivery Robot](introduction_to_robotics):** Partial code for a control system to simulate mail delivery using a mobile robot, leveraging Bayesian localization, PID control, visual odometry, and other techniques.
+- **[Autonomous Mail Delivery Robot](introduction_to_robotics):** Partial code for a control system to simulate mail delivery using a mobile robot, leveraging Bayesian localization, PID control, visual odometry, and other techniques.
 
 ## Computer Algorithms and Data Structures (ESC190)
 _Taught by Professor Michael Guerzhoy._ 
